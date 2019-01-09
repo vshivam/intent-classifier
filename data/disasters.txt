@@ -1,0 +1,17 @@
+earthquake
+volcanic eruption
+hurricane
+landslide
+landslip
+avalanche
+
+flood
+deluge
+tidal wave
+tsunami
+drought
+fire
+
+disaster
+catastrophe
+cataclysm
