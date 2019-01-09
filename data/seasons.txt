@@ -1,0 +1,27 @@
+winter
+spring
+summer
+autumn
+fall
+early spring
+late autumn
+Indian summer
+
+springtime
+summertime
+wintertime
+spring season
+summer season
+fall season
+winter season
+dry season
+wet season
+rainy season
+cold season;
+warm season
+cold winters
+extremely cold winters;
+mild winters
+cool summers
+warm summers
+hot summers
