@@ -13,14 +13,5 @@ weather tonite
 berlin weather 
 stockholm weather
 What’s the weather forecast in Berlin
-We couldn’t ask for weather
-It looks like rain
-It looks as if it’s going to rain
-It’s going to rain
-It’s clearing up
-It’s going to be fine tomorrow
-It’s getting warmer
-I think there’ll be a storm soon
-I don’t think the rain would last long
-I think the rain is going to last all day
-
+weather report
+weather forecast

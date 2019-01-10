@@ -27,7 +27,7 @@ f.close()
 print('Found %s word vectors.' % len(embeddings_index))
 
 TEXT_DATA_DIR = os.path.join(BASE_DIR, 'data')
-VALIDATION_SPLIT = 0.1
+VALIDATION_SPLIT = 0.4
 
 texts = []  # list of text samples
 labels_index = {}  # dictionary mapping label name to numeric id
@@ -105,23 +105,23 @@ model.compile(loss='categorical_crossentropy',
 
 model.fit(x_train, y_train,
           batch_size=128,
-          epochs=10,
-          validation_data=(x_val, y_val))
+          epochs=50,
+          validation_data=(x_val, y_val), verbose=1)
 
-unseen_texts = ['hi', 'how are you', 'is it cold outside', 'what is the weather like', 'is it going to be hot today']
+unseen_texts = ['hi', 'how are you', 'is it cold outside', 'what is the weather like', 'is it going to be hot today', 'what time is sunrise', 'is it windy out there']
 unseen = tokenizer.texts_to_sequences(unseen_texts)
 unseen_sequence = pad_sequences(unseen, maxlen=MAX_SEQUENCE_LENGTH)
 probs = model.predict(unseen_sequence)
-print(sorted(labels_index))
+print labels_index
 print(probs.argmax(axis=-1))
+
 '''
 t = 0
-
 for text in unseen_texts:
     i = 0
     print("Prediction for \"%s\": " % (text))
     for label in labels_index:
         print("\t%s ==> %f" % (label, probs[t][i]))
-        i = i + 1
-    t = t + 1
+        i += 1
+    t += 1
 '''
