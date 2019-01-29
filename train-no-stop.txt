@@ -1,0 +1,78 @@
+weather	What's the weather like tomorrow 
+weather	What is the weather today in Stockholm 
+weather	What's the weather forecast for tomorrow in Berlin 
+weather	What's the weather like tonight 
+weather	weather tonight berlin
+weather	weather tomorrow beijing 
+weather	weather this weekend 
+weather	how is the weather this week 
+weather	how is the weather 
+weather	hows the weather 
+weather	whats the weather 
+weather	weather tonite 
+weather	berlin weather 
+weather	stockholm weather 
+weather	what is the weather next week
+weather	what is the weather tomorrow in Hamburg
+weather	how is the weather tomorrow morning
+weather	what's the weather like in the next days
+weather	how is the weather next week in Prag
+rain	Is it raining outside
+rain	Is it going to rain tomorrow
+rain	Is it going to rain today
+rain	will it rain today
+rain	will it rain all day this week 
+rain	will it rain on sunday 
+rain	will it rain on friday 
+rain	how much is it going to rain this week 
+rain	rain berlin 
+rain	berlin rain 
+rain	stockholm rain
+rain	will it rain this week
+rain	will it rain next week
+rain	is it rainy today
+rain	is it rainy tomorrow
+rain	will it rain in the next hours
+rain	is it rainy in Hamburg
+rain	is it rainy in Berlin
+temperature	temperature berlin
+temperature	whats the temperature in berlin 
+temperature	is it cold in berlin 
+temperature	how cold is it outside 
+temperature	how hot it is outside 
+temperature	is it going to be hot this week 
+temperature	is it hot this week 
+temperature	how cold is this week going to be 
+temperature	is it going to be cold tonight 
+temperature	berlin temperature 
+temperature	stockholm temperature 
+temperature	is it warm outside 
+temperature	is going to be warm outside 
+temperature	is it going to be warm outside tomorrow 
+temperature	is it going to be warm tonight 
+temperature	how cold is it tomorrow
+temperature	will it be hot tomorrow
+temperature	will it be cold tomorrow
+temperature	how cold can it get today
+temperature	how cold can it get next week
+temperature	is it hot in two days
+temperature	is it hot next monday
+temperature	is it cold next monday
+moon	at what time does the moon come out tonight
+moon	what time does the moon come out 
+moon	moonrise tonight 
+moon	when does the moon come out tonight 
+moon	when does the moon rise 
+hi	hey
+hi	hello
+hi	hi
+hi	heya
+hi	good morning
+hi	g'day
+hi	gday
+hi	good day
+hi	good afternoon
+hi	morning
+hi	good evening
+hi	wassup
+
